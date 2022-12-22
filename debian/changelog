@@ -1,0 +1,23 @@
+node-tty-browserify (0.0.1-1) unstable; urgency=medium
+
+  * New upstream version: fix a typo
+  * Use debhelper 12
+  * Bump policy (no changes)
+  * Use pkg-js-tools
+  * move to salsa
+  * Move to javascript section
+
+ -- Bastien Roucariès <rouca@debian.org>  Tue, 03 Mar 2020 23:18:57 +0100
+
+node-tty-browserify (0.0.0-2) unstable; urgency=medium
+
+  * Team upload
+  * Reupload to unstable
+
+ -- Pirate Praveen <praveen@debian.org>  Thu, 27 Jul 2017 22:15:19 +0530
+
+node-tty-browserify (0.0.0-1) experimental; urgency=low
+
+  * Initial release (Closes: #853138)
+
+ -- akash <akashsarda3@gmail.com>  Sun, 29 Jan 2017 19:14:05 +0000
